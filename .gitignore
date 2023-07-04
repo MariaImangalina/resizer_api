@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyc
+*.whl
+*.sql
+*.env
+
+# Distribution / packaging
+env/
+venv/
+build/
+*settings_local.py
+*.sqlite3
+/.idea/
+media/
